@@ -37,7 +37,7 @@ https://draw-with-me-h09i.onrender.com/
 ## 🗂️ Project Structure
 
 ```
-Draw_with_me/
+Flam_Assignment/
 ├── client/
 │   ├── index.html
 │   ├── style.css
@@ -59,7 +59,7 @@ Draw_with_me/
 ## ⚙️ Installation & Local Setup
 
 ```
-git clone https://github.com/Rakesh-0211/Draw_with_me.git
+git clone https://github.com/Shahab-16/Flam_Assignment.git
 cd Draw_with_me
 npm install
 npm start
@@ -150,8 +150,8 @@ Licensed under the **MIT License** — feel free to use and modify.
 
 ## 👨‍💻 Author
 
-**Rakesh-0211**  
-GitHub: https://github.com/Rakesh-0211/Draw_with_me  
+**Shahab-16**  
+GitHub: https://github.com/Shahab-16/Flam_Assignment 
 Project Deployment: https://draw-with-me-h09i.onrender.com/
 
 ---
